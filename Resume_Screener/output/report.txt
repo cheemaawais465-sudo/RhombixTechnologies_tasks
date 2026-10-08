@@ -1,0 +1,24 @@
+============================================================
+RESUME SCREENING REPORT - Python / AI Developer
+Generated: 2026-10-08 12:54
+============================================================
+Total resumes scanned : 6
+Shortlisted           : 3 (threshold: 60)
+------------------------------------------------------------
+1. Ayesha Khan  |  Score: 90.0
+   Email: ayesha.khan@example.com  Phone: 0300 1234567
+   Matched: python, machine learning, sql, git
+   Missing: -
+   Experience: 3 yrs  File: Ayesha_Khan_CV.docx
+
+2. Fatima Noor  |  Score: 90.0
+   Email: fatima.noor@example.com  Phone: 0312 2223344
+   Matched: python, machine learning, sql, git
+   Missing: -
+   Experience: 4 yrs  File: Fatima_Noor_CV.pdf
+
+3. Hina Malik  |  Score: 84.0
+   Email: hina.malik@example.com  Phone: 0321 7654321
+   Matched: python, machine learning, sql, git
+   Missing: -
+   Experience: 2 yrs  File: Hina_Malik_CV.pdf

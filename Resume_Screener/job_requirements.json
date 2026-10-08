@@ -1,0 +1,9 @@
+{
+  "job_title": "Python / AI Developer",
+  "required_keywords": ["python", "machine learning", "sql", "git"],
+  "optional_keywords": ["pytorch", "tensorflow", "opencv", "flask", "django", "docker", "nlp", "yolo", "pandas", "numpy"],
+  "education_keywords": ["bs computer science", "bscs", "bachelor", "software engineering", "computer science"],
+  "min_experience_years": 1,
+  "weights": { "required": 60, "optional": 20, "education": 10, "experience": 10 },
+  "shortlist_threshold": 60
+}
